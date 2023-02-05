@@ -6,5 +6,5 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 
 ###Figma da aplicação: 
 
-![image](https://user-images.githubusercontent.com/124213040/216852030-bad76eb1-43d0-415c-ab8b-866a9de6f87e.png)
+![image](https://user-images.githubusercontent.com/124213040/216852071-53160ece-7dac-4c20-86f8-8efdce780771.png)
 
